@@ -1,0 +1,8 @@
+const addresses = [
+	"0x706Be40d1692f8a6dB29C872c10cCc68Cf2F7381",
+	"0x494B712f00E69397d38cd00D6d10e6C1ae39bAF7",
+	"0x67fC08959d92A401a23aEC526c0d0b77Aec76648",
+	"0xAb524d6180b04CaC1179261f14106ec5a162d426"
+];
+
+module.exports = { addresses }
