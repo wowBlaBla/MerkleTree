@@ -18,7 +18,7 @@ console.log("\n- rootHash\n", rootHash);
 /************************************************************************************************/
 
 // 'Serverside' code
-let address = addresses[0]
+let address = addresses[2]
 let hashedAddress = keccak256(address)
 let proof = merkleTree.getHexProof(hashedAddress)
 console.log("\n- proof\n", proof)
